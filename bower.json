@@ -1,0 +1,7 @@
+{
+  "name": "highcharts-tutorial",
+  "dependencies": {
+    "highcharts": "highcharts-release#~4.1.9",
+    "jquery": "~2.1.4"
+  }
+}
